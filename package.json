@@ -1,0 +1,19 @@
+{
+  "name": "three-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.3.0"
+  },
+  "dependencies": {
+    "fontloader": "^1.2.7",
+    "postprocessing": "^6.34.3",
+    "three": "^0.138.3",
+    "three-good-godrays": "^0.6.1",
+    "three.textsprite": "^20.0.0"
+  }
+}
